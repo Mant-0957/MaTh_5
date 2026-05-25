@@ -1,8 +1,7 @@
-# MaTh_5
 
 A mathematics-focused Jupyter Notebook project containing problem-solving examples, formulas, and computational implementations using Python.
 
-## 📘 Project Overview
+##  Project Overview
 
 `Math5.ipynb` is a Jupyter Notebook designed to explore mathematical concepts through code. The notebook can be used for:
 
@@ -17,7 +16,7 @@ This project is ideal for students, developers, and anyone interested in learnin
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```bash
 MaTh_5/
@@ -28,7 +27,7 @@ MaTh_5/
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 Make sure you have the following installed:
 
@@ -43,9 +42,9 @@ pip install numpy pandas matplotlib sympy
 
 Depending on the notebook contents, additional libraries may be required.
 
----
 
-## 🚀 Getting Started
+
+##  Getting Started
 
 ### 1. Clone the Repository
 
@@ -68,7 +67,7 @@ Math5.ipynb
 
 ---
 
-## 🧠 Features
+##  Features
 
 * Interactive mathematical calculations
 * Step-by-step notebook workflow
@@ -78,7 +77,7 @@ Math5.ipynb
 
 ---
 
-## 📊 Technologies Used
+##  Technologies Used
 
 * Python
 * Jupyter Notebook
@@ -87,9 +86,9 @@ Math5.ipynb
 * SymPy
 * Pandas
 
----
 
-## 📸 Example Use Cases
+
+##  Example Use Cases
 
 You can use this notebook for:
 
@@ -99,9 +98,9 @@ You can use this notebook for:
 * Academic mini-projects
 * Experimenting with formulas and equations
 
----
 
-## 🤝 Contributing
+
+##  Contributing
 
 Contributions are welcome.
 
@@ -111,15 +110,14 @@ Contributions are welcome.
 4. Commit your updates
 5. Submit a pull request
 
----
 
-## 📄 License
+##  License
 
 This project is open source and available under the MIT License.
 
----
 
-## 👤 Author
+
+##  Author
 
 Created by [Mant-0957](https://github.com/Mant-0957)
 
